@@ -8,4 +8,3 @@ def hello():
 
 if __name__ == '__main__':
     app.run()
-print("hiii , our 2nd ci project is done")
